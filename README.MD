@@ -29,8 +29,8 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Sider](https://sider.ai/) 
+- [Microsoft Designer](https://designer.microsoft.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -41,14 +41,19 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Faça um texto para ebook, misturando os conceitos dos 3 livros "o poder do hábito", "motivação 3.0" e "Força de Vontade Não Funciona", listando os principais conteúdos e com exemplos de aplicação: 
+{REGRAS}
+>Explique sempre de uma maneira simples 
+>Deixe o texto enxuto
+>Sempre traga exemplos em contextos reais 
+>Sempre deixe um texto sugestivo por tópico |
 
 
-Midjourney：
+Microsoft Designer：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | crie imagem sobre hábitos e mudanças, com tom sóbrio |
 
 ## ✨ Features
 
