@@ -78,7 +78,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/marcelominey/">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/marcelominey">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/marcelominey">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/miney_labs/">
     Instagram</a>
